@@ -1,5 +1,7 @@
 # QA Portfolio
 
+[![Tests](https://github.com/Yorkie0/qa-portfolio/actions/workflows/tests.yml/badge.svg)](https://github.com/Yorkie0/qa-portfolio/actions/workflows/tests.yml)
+
 Iain York: QA engineer moving from Games QA into Software QA.
 
 All work here is built on public demo applications. Nothing comes from employer projects.
