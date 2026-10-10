@@ -16,5 +16,6 @@ export default defineConfig({
       testMatch: /.*\.api\.spec\.ts/,
       use: { baseURL: 'https://restful-booker.herokuapp.com' },
     },
+    { name: 'site', testMatch: /site\.spec\.ts/ },
   ],
 });
